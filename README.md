@@ -9,18 +9,18 @@ It is based on United Nations data from **2005 to 2022**, including area charts,
 
 The dataset includes:
 
-- 📈 Population growth rates (%)
+- 📝 Population growth rates (%)
 - 👶 Fertility rates (per woman)
 - ⚰️ Mortality indicators
-- 🌍 Country, Region, Subregion
-- 📆 Time range: 2005–2022
+- 🌐 Country, Region, Subregion
+- 🗓️ Time range: 2005–2022
 - 🗺️ Surface area (sq. km)
 
 ---
 
 ## 📊 Data Model Overview
 
-![Data Model](data-model-overview.png)  
+![Data Model Overview](data-model-overview.png)  
 ![Power BI Relationships](powerbi-data-model-relationships.png)
 
 ---
@@ -37,27 +37,23 @@ The dataset includes:
 
 ## 👶 Fertility Trends
 
-- Analysis of global fertility dynamics per region and over time
-
-![Waterfall Chart – Fertility](waterfall-chart-fertility-series.png)  
-![Map & Waterfall – Fertility](fertility-map-and-waterfall-chart.png)  
+![Waterfall – Fertility](waterfall-chart-fertility-series.png)  
+![Map & Waterfall](fertility-map-and-waterfall-chart.png)  
 ![Fertility by Year](Fertility_Percentage_by_Year.png)
 
 ---
 
-## 📈 Population Growth
+## 📈 Population Growth Trends
 
-- Population growth patterns by area and year
-
-![Area Chart – Growth %](area-chart-population-growth-percentage.png)  
+![Area Chart – Growth](area-chart-population-growth-percentage.png)  
 ![Table – Growth by Surface](population-growth-table-by-surface-year.png)  
 ![Growth by Year](Population_Growth_Percentage_by_Year.png)
 
 ---
 
-## 🧍‍♂️ Migration & Refugees Chart
+## 🧍‍♂️ Migrants & Refugees
 
-![Migrants & Refugees Bar Chart](migrants-and-refugees-bar-chart.png)
+![Bar Chart – Migrants & Refugees](migrants-and-refugees-bar-chart.png)
 
 ---
 
