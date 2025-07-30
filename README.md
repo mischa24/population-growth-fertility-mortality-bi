@@ -1,2 +1,68 @@
-# population-growth-fertility-mortality-bi
-Power BI analysis based on United Nations data for Population Growth, Fertility and Mortality.  Includes comparative insights per country from 2005 to 2022, using area charts, waterfall charts, ribbon charts and geospatial maps.
+# 🌍 Population Growth, Fertility and Mortality – Power BI Project
+
+This Power BI project provides insights into global trends in **population growth**, **fertility**, and **mortality** across countries and years.  
+It is based on United Nations data from **2005 to 2022**, including area charts, waterfall charts, ribbon visuals and maps.
+
+---
+
+## 📁 Dataset Overview
+
+The dataset includes:
+
+- 📈 Population growth rates (%)
+- 👶 Fertility rates (per woman)
+- ⚰️ Mortality indicators
+- 🌍 Country, Region, Subregion
+- 📆 Time range: 2005–2022
+- 🗺️ Surface area (sq. km)
+
+---
+
+## 📊 Data Model Overview
+
+![Data Model](data-model-overview.png)  
+![Power BI Relationships](powerbi-data-model-relationships.png)
+
+---
+
+## 🧭 Migration Insights
+
+- Migration trends visualized across time and geography
+
+![Area Chart – Migration](area-chart-migration-series-by-year.png)  
+![Map – Migrants](map-international-migrant-stock.png)  
+![Stacked Area – Migrants](stacked-area-migrant-stock-year-series.png)
+
+---
+
+## 👶 Fertility Trends
+
+- Analysis of global fertility dynamics per region and over time
+
+![Waterfall Chart – Fertility](waterfall-chart-fertility-series.png)  
+![Map & Waterfall – Fertility](fertility-map-and-waterfall-chart.png)  
+![Fertility by Year](Fertility_Percentage_by_Year.png)
+
+---
+
+## 📈 Population Growth
+
+- Population growth patterns by area and year
+
+![Area Chart – Growth %](area-chart-population-growth-percentage.png)  
+![Table – Growth by Surface](population-growth-table-by-surface-year.png)  
+![Growth by Year](Population_Growth_Percentage_by_Year.png)
+
+---
+
+## 🧍‍♂️ Migration & Refugees Chart
+
+![Migrants & Refugees Bar Chart](migrants-and-refugees-bar-chart.png)
+
+---
+
+## 🔚 Summary
+
+This dashboard is a visual narrative of the shifting global population structure, highlighting countries with increasing or declining fertility and growth rates, and offering an analytical view of long-term demographic changes.
+
+---
