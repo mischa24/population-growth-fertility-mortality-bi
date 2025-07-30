@@ -17,35 +17,34 @@ The dataset includes:
 
 ---
 
-## 🗂️ Data Model Overview
+## 📁 Data Model Overview
 
-![Data Model](data-model-overview.png)  
-![Power BI Relationships](powerbi-data-model-relationships.png)
+<img src="data-model-overview.png" width="600"/>  
+<img src="powerbi-data-model-relationships.png" width="600"/>
 
 ---
 
-## ⏱️ Migration Insights
+## 🧭 Migration Insights
 
 Migration trends visualized across time and geography:
 
-- ![Area Chart – Migration](area-chart-migration-series-by-year.png)
-- ![Map – Migrants](map-international-migrant-stock.png)
-- ![Stacked Area – Migrants](stacked-area-migrant-stock-year-series.png)
-- ![Bar Chart – Migrants](migrants-and-refugees-bar-chart.png)
+<img src="area-chart-migration-series-by-year.png" width="600"/>  
+<img src="map-international-migrant-stock.png" width="600"/>  
+<img src="stacked-area-migrant-stock-year-series.png" width="600"/>  
+<img src="migrants-and-refugees-bar-chart.png" width="600"/>
 
 ---
 
 ## 👶 Fertility Trends
 
-- ![Waterfall Chart – Fertility](waterfall-chart-fertility-series.png)
-- ![Fertility Map & Chart](fertility-map-and-waterfall-chart.png)
-- ![Fertility % by Year](Fertility_Percentage_by_Year.png)
+<img src="waterfall-chart-fertility-series.png" width="600"/>  
+<img src="fertility-map-and-waterfall-chart.png" width="600"/>  
+<img src="Fertility_Percentage_by_Year.png" width="600"/>
 
 ---
 
 ## 🌍 Population Growth
 
-- ![Area Chart – Growth](area-chart-population-growth-percentage.png)
-- ![Growth Table by Surface](population-growth-table-by-surface-year.png)
-- ![Growth % by Year](Population_Growth_Percentage_by_Year.png)
-
+<img src="area-chart-population-growth-percentage.png" width="600"/>  
+<img src="population-growth-table-by-surface-year.png" width="600"/>  
+<img src="Population_Growth_Percentage_by_Year.png" width="600"/>
