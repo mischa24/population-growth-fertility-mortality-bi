@@ -1,3 +1,12 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Power BI](https://img.shields.io/badge/tool-Power%20BI-yellow)
+![Dataset](https://img.shields.io/badge/data-UN%20World%20Population-blue)
+![Period](https://img.shields.io/badge/years-2005–2022-lightgrey)
+
+# population-growth-fertility-mortality-bi
+
+Power BI analysis based on United Nations data for Population Growth, Fertility and Mortality. Includes comparative insights per country from 2005 to 2022, using area charts, waterfall charts, ribbon charts and geospatial maps.
+
 ## 📊 Dataset Overview
 
 The dataset includes:
